@@ -1,3 +1,3 @@
 # PROJECT
-this is my first github
+This is my first git,
 progrmmer-swaadhin
